@@ -135,7 +135,7 @@ The latest version will always be available at this URL.
 
 For privacy questions or requests concerning TidySurf, contact:
 
-**Email:** [REPLACE WITH YOUR SUPPORT EMAIL]
+**Email:** haidariqbal49@gmail.com
 
 ---
 
